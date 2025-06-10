@@ -9,7 +9,7 @@ Model forked from Sarcasm Detection by NamanJain
 1. prepare-data-csv.ipynb: Using raw data source to create usable data CSVs
 2. Data cleaning and EDA.ipyb: Cleaning text and some Exploratory data analysis on our data
 3. Modelling.ipynb: Original CNN model for text classification task, trained on Reddit comments
-4. sdfsdfsd
+4. Misclassified Comparison: Creates a spreadsheet which shows counts of how many times the model misclassified each headline
 
 ## Dataset details
 FILL OUT DETAILS LATER
